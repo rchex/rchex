@@ -11,3 +11,6 @@ theme:
   highlightjs: true
   hljs_languages:
     - yaml
+
+extra_javascript:
+    myscript.js
