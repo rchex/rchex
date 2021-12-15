@@ -5,7 +5,6 @@ site_description: a short description of your website
 
 nav:
   - About: index.md
-  - MyAbout: index.md
 
 theme:
   name: readthedocs
