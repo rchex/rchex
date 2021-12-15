@@ -13,4 +13,4 @@ theme:
     - yaml
 
 extra_javascript:
-    myscript.js
+  - myscript.js
