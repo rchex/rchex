@@ -1,0 +1,4 @@
+[submodule "rchex.github.io"]
+	path = rchex.github.io
+	url = git@github.com:rchex/rchex.github.io.git
+	branch = main
